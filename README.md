@@ -1,0 +1,2 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2e4f8f39-ad7f-47b3-9e85-0dec0343fd42/deploy-status)](https://app.netlify.com/sites/circleci-netlify-integration-test/deploys)
+
